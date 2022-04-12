@@ -1,2 +1,3 @@
 # riipandi.github.io
-Dummy repository for Github project page
+
+This is dummy repository for Github project page.
